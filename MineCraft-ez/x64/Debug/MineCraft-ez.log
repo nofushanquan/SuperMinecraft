@@ -1,0 +1,119 @@
+﻿  Control.cpp
+E:\MineCraft-ez\src\Control.cpp(8,34): warning C4305: “初始化”: 从“double”到“const float”截断
+E:\MineCraft-ez\src\Control.cpp(37,22): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\MineCraft-ez\src\Control.cpp(47,75): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\MineCraft-ez\src\Control.cpp(61,75): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\MineCraft-ez\src\Control.cpp(65,92): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(65,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(65,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(67,91): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(67,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(67,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(67,109): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(111,33): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(111,49): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(111,65): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(114,34): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(114,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(114,66): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(119,31): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(119,47): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(119,63): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(126,37): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(126,53): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(126,69): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(127,34): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(127,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(127,66): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(128,36): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(128,52): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(128,68): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(129,33): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(129,49): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(129,65): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(146,34): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(146,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(146,66): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(148,51): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(148,67): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(148,83): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(151,31): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(151,47): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(151,63): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(161,33): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(161,49): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(161,65): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(163,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(163,66): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(163,82): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(166,30): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(166,46): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(166,62): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(173,36): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(173,62): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(173,72): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(175,33): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(175,59): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(175,69): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(190,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(191,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(197,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(198,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(202,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(203,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(204,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(205,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(260,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(296,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(335,31): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(335,46): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(335,61): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(336,28): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(336,43): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(336,58): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(338,32): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(338,53): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(338,68): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(339,29): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(339,50): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(339,65): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(340,29): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(340,44): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(340,59): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(341,29): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(341,44): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(341,59): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(343,29): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(343,50): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(343,65): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(344,29): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(344,50): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(344,65): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(345,29): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(345,44): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(345,59): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(346,29): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(346,44): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(346,59): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(356,47): warning C4244: “参数”: 从“float”转换到“size_t”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(361,28): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(361,21): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(365,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(365,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\MineCraft-ez\src\Control.cpp(375,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  CubeModel.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  MineCraft-ez.vcxproj -> E:\MineCraft-ez\x64\Debug\MineCraft-ez.exe
