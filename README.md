@@ -8,5 +8,5 @@
 
 ![image](https://github.com/nofushanquan/SuperMinecraft/blob/master/images/9.png)
 
-# Platform
+# Envoirnment
 win64 VS2019
